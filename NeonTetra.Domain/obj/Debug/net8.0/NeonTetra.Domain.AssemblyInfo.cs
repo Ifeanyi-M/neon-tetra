@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NeonTetra.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5584bef036c07e0717c8bc6beb6ce05740dbd437")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c6ed19e98140046f4f37ab7b93673c75c3497ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("NeonTetra.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NeonTetra.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

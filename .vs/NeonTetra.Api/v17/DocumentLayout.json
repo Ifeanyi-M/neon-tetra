@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Data\\Migrations\\20240629161920_NewMigration2024-29-06v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NeonTetra.Data\\Migrations\\20240629161920_NewMigration2024-29-06v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F467D1F-C8A8-4D92-B4F7-E58D77E4BEDA}|NeonTetra.Api\\NeonTetra.Api.csproj|c:\\users\\decagon\\source\\repos\\neontetra.api\\neontetra.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F467D1F-C8A8-4D92-B4F7-E58D77E4BEDA}|NeonTetra.Api\\NeonTetra.Api.csproj|solutionrelative:neontetra.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F467D1F-C8A8-4D92-B4F7-E58D77E4BEDA}|NeonTetra.Api\\NeonTetra.Api.csproj|c:\\users\\decagon\\source\\repos\\neontetra.api\\neontetra.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F467D1F-C8A8-4D92-B4F7-E58D77E4BEDA}|NeonTetra.Api\\NeonTetra.Api.csproj|solutionrelative:neontetra.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F467D1F-C8A8-4D92-B4F7-E58D77E4BEDA}|NeonTetra.Api\\NeonTetra.Api.csproj|c:\\users\\decagon\\source\\repos\\neontetra.api\\neontetra.api\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F467D1F-C8A8-4D92-B4F7-E58D77E4BEDA}|NeonTetra.Api\\NeonTetra.Api.csproj|solutionrelative:neontetra.api\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{33841B55-E2DA-4580-81CA-E7602EA3185C}|NeonTetra.Domain\\NeonTetra.Domain.csproj|c:\\users\\decagon\\source\\repos\\neontetra.api\\neontetra.domain\\dtos\\authdtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33841B55-E2DA-4580-81CA-E7602EA3185C}|NeonTetra.Domain\\NeonTetra.Domain.csproj|solutionrelative:neontetra.domain\\dtos\\authdtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Data\\Migrations\\20240624155813_NewMigration2024-06-24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NeonTetra.Data\\Migrations\\20240624155813_NewMigration2024-06-24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DA0C95E-EEB6-4364-B3FA-EAC09B64B2E8}|NeonTetra.Data\\NeonTetra.Data.csproj|c:\\users\\decagon\\source\\repos\\neontetra.api\\neontetra.data\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,20 +55,12 @@
       "RelativeMoniker": "D:0:0:{5F467D1F-C8A8-4D92-B4F7-E58D77E4BEDA}|NeonTetra.Api\\NeonTetra.Api.csproj|solutionrelative:neontetra.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F467D1F-C8A8-4D92-B4F7-E58D77E4BEDA}|NeonTetra.Api\\NeonTetra.Api.csproj|c:\\users\\decagon\\source\\repos\\neontetra.api\\neontetra.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5F467D1F-C8A8-4D92-B4F7-E58D77E4BEDA}|NeonTetra.Api\\NeonTetra.Api.csproj|solutionrelative:neontetra.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{33841B55-E2DA-4580-81CA-E7602EA3185C}|NeonTetra.Domain\\NeonTetra.Domain.csproj|c:\\users\\decagon\\source\\repos\\neontetra.api\\neontetra.domain\\mailchimpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33841B55-E2DA-4580-81CA-E7602EA3185C}|NeonTetra.Domain\\NeonTetra.Domain.csproj|solutionrelative:neontetra.domain\\mailchimpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F467D1F-C8A8-4D92-B4F7-E58D77E4BEDA}|NeonTetra.Api\\NeonTetra.Api.csproj|c:\\users\\decagon\\source\\repos\\neontetra.api\\neontetra.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F467D1F-C8A8-4D92-B4F7-E58D77E4BEDA}|NeonTetra.Api\\NeonTetra.Api.csproj|solutionrelative:neontetra.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F467D1F-C8A8-4D92-B4F7-E58D77E4BEDA}|NeonTetra.Api\\NeonTetra.Api.csproj|c:\\users\\decagon\\source\\repos\\neontetra.api\\neontetra.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F467D1F-C8A8-4D92-B4F7-E58D77E4BEDA}|NeonTetra.Api\\NeonTetra.Api.csproj|solutionrelative:neontetra.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C276BEA1-B4EC-4715-8756-9B06887EF928}|NeonTetra.Services\\NeonTetra.Services.csproj|c:\\users\\decagon\\source\\repos\\neontetra.api\\neontetra.services\\neontetra.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -81,6 +81,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5F467D1F-C8A8-4D92-B4F7-E58D77E4BEDA}|NeonTetra.Api\\NeonTetra.Api.csproj|c:\\users\\decagon\\source\\repos\\neontetra.api\\neontetra.api\\neontetra.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5F467D1F-C8A8-4D92-B4F7-E58D77E4BEDA}|NeonTetra.Api\\NeonTetra.Api.csproj|solutionrelative:neontetra.api\\neontetra.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA0C95E-EEB6-4364-B3FA-EAC09B64B2E8}|NeonTetra.Data\\NeonTetra.Data.csproj|c:\\users\\decagon\\source\\repos\\neontetra.api\\neontetra.data\\migrations\\20240624155813_newmigration2024-06-24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA0C95E-EEB6-4364-B3FA-EAC09B64B2E8}|NeonTetra.Data\\NeonTetra.Data.csproj|solutionrelative:neontetra.data\\migrations\\20240624155813_newmigration2024-06-24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 244,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,28 +134,28 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20240624155813_NewMigration2024-06-24.cs",
-              "DocumentMoniker": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Data\\Migrations\\20240624155813_NewMigration2024-06-24.cs",
-              "RelativeDocumentMoniker": "NeonTetra.Data\\Migrations\\20240624155813_NewMigration2024-06-24.cs",
-              "ToolTip": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Data\\Migrations\\20240624155813_NewMigration2024-06-24.cs",
-              "RelativeToolTip": "NeonTetra.Data\\Migrations\\20240624155813_NewMigration2024-06-24.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "20240629161920_NewMigration2024-29-06v1.cs",
+              "DocumentMoniker": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Data\\Migrations\\20240629161920_NewMigration2024-29-06v1.cs",
+              "RelativeDocumentMoniker": "NeonTetra.Data\\Migrations\\20240629161920_NewMigration2024-29-06v1.cs",
+              "ToolTip": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Data\\Migrations\\20240629161920_NewMigration2024-29-06v1.cs",
+              "RelativeToolTip": "NeonTetra.Data\\Migrations\\20240629161920_NewMigration2024-29-06v1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T15:58:14.758Z",
+              "WhenOpened": "2024-06-29T16:19:20.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Data\\Repositories\\Implementations\\UserRepository.cs",
               "RelativeDocumentMoniker": "NeonTetra.Data\\Repositories\\Implementations\\UserRepository.cs",
@@ -163,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Services\\Interfaces\\IAuthService.cs",
               "RelativeDocumentMoniker": "NeonTetra.Services\\Interfaces\\IAuthService.cs",
@@ -171,12 +175,11 @@
               "RelativeToolTip": "NeonTetra.Services\\Interfaces\\IAuthService.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAABQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T13:48:58.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T13:48:58.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Services\\Implementations\\AuthService.cs",
               "RelativeDocumentMoniker": "NeonTetra.Services\\Implementations\\AuthService.cs",
@@ -189,7 +192,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "NeonTetra.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Api\\appsettings.json",
+              "RelativeToolTip": "NeonTetra.Api\\appsettings.json",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwAoAAACdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T13:09:31.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ResetPasswordDTO.cs",
               "DocumentMoniker": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Domain\\DTOs\\AuthDtos\\ResetPasswordDTO.cs",
               "RelativeDocumentMoniker": "NeonTetra.Domain\\DTOs\\AuthDtos\\ResetPasswordDTO.cs",
@@ -197,25 +213,24 @@
               "RelativeToolTip": "NeonTetra.Domain\\DTOs\\AuthDtos\\ResetPasswordDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T14:47:58.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T14:47:58.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Api\\Controllers\\Auth\\AuthController.cs",
               "RelativeDocumentMoniker": "NeonTetra.Api\\Controllers\\Auth\\AuthController.cs",
               "ToolTip": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Api\\Controllers\\Auth\\AuthController.cs",
               "RelativeToolTip": "NeonTetra.Api\\Controllers\\Auth\\AuthController.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAQwFMAAAAIAAAA",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAQwFMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T14:21:18.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "NeonTetra.Domain\\Entities\\User.cs",
@@ -227,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Services\\Interfaces\\IEmailService.cs",
               "RelativeDocumentMoniker": "NeonTetra.Services\\Interfaces\\IEmailService.cs",
@@ -239,7 +254,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Api\\Program.cs",
+              "RelativeDocumentMoniker": "NeonTetra.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Api\\Program.cs",
+              "RelativeToolTip": "NeonTetra.Api\\Program.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:14:51.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240624155813_NewMigration2024-06-24.cs",
+              "DocumentMoniker": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Data\\Migrations\\20240624155813_NewMigration2024-06-24.cs",
+              "RelativeDocumentMoniker": "NeonTetra.Data\\Migrations\\20240624155813_NewMigration2024-06-24.cs",
+              "ToolTip": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Data\\Migrations\\20240624155813_NewMigration2024-06-24.cs",
+              "RelativeToolTip": "NeonTetra.Data\\Migrations\\20240624155813_NewMigration2024-06-24.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:58:14.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Services\\Implementations\\EmailService.cs",
               "RelativeDocumentMoniker": "NeonTetra.Services\\Implementations\\EmailService.cs",
@@ -252,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "NeonTetra.Api\\Properties\\launchSettings.json",
@@ -264,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Services\\Implementations\\UserService.cs",
               "RelativeDocumentMoniker": "NeonTetra.Services\\Implementations\\UserService.cs",
@@ -276,19 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "NeonTetra.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Api\\appsettings.json",
-              "RelativeToolTip": "NeonTetra.Api\\appsettings.json",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-20T13:09:31.776Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "MailChimpSettings.cs",
               "DocumentMoniker": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Domain\\MailChimpSettings.cs",
               "RelativeDocumentMoniker": "NeonTetra.Domain\\MailChimpSettings.cs",
@@ -300,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "TestController.cs",
               "DocumentMoniker": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Api\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "NeonTetra.Api\\Controllers\\TestController.cs",
@@ -309,18 +337,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T14:05:02.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Api\\Program.cs",
-              "RelativeDocumentMoniker": "NeonTetra.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Api\\Program.cs",
-              "RelativeToolTip": "NeonTetra.Api\\Program.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAACAAAABdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T13:14:51.148Z"
             },
             {
               "$type": "Document",
