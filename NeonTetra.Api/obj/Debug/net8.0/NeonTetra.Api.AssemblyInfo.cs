@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NeonTetra.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01d7511130f17af7bda1710b81e87d7f9b57e26c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac9d1658e4c2e48f574543d2205505991515c371")]
 [assembly: System.Reflection.AssemblyProductAttribute("NeonTetra.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NeonTetra.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

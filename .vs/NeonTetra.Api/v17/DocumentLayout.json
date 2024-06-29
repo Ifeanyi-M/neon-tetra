@@ -134,7 +134,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
@@ -171,8 +171,7 @@
               "RelativeToolTip": "NeonTetra.Api\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-20T13:09:31.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T13:09:31.776Z"
             },
             {
               "$type": "Document",
@@ -218,14 +217,14 @@
               "RelativeDocumentMoniker": "NeonTetra.Api\\Program.cs",
               "ToolTip": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Api\\Program.cs",
               "RelativeToolTip": "NeonTetra.Api\\Program.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGIAAAAXAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T13:14:51.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
@@ -237,8 +236,7 @@
               "RelativeToolTip": "NeonTetra.Api\\NeonTetra.Api.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-20T13:08:29.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T13:08:29.681Z"
             },
             {
               "$type": "Document",
@@ -395,8 +393,7 @@
               "RelativeToolTip": "NeonTetra.Services\\NeonTetra.Services.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-20T13:05:40.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T13:05:40.876Z"
             }
           ]
         },
