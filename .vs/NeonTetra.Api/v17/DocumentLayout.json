@@ -142,8 +142,7 @@
               "RelativeToolTip": "NeonTetra.Data\\Migrations\\20240629161920_NewMigration2024-29-06v1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T16:19:20.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-29T16:19:20.89Z"
             },
             {
               "$type": "Document",
@@ -167,8 +166,7 @@
               "RelativeToolTip": "NeonTetra.Services\\Implementations\\AuthService.cs",
               "ViewState": "AQIAAAEBAAAAAAAAAAAgwBkBAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T13:50:23.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T13:50:23.632Z"
             },
             {
               "$type": "Document",
@@ -226,18 +224,10 @@
               "RelativeDocumentMoniker": "NeonTetra.Api\\Program.cs",
               "ToolTip": "C:\\Users\\DECAGON\\source\\repos\\NeonTetra.Api\\NeonTetra.Api\\Program.cs",
               "RelativeToolTip": "NeonTetra.Api\\Program.cs",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAAAG4AAAAcAAAA",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGQAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T13:14:51.148Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
@@ -285,8 +275,7 @@
               "RelativeToolTip": "NeonTetra.Services\\Implementations\\EmailService.cs",
               "ViewState": "AQIAAFAAAAAAAAAAAAAqwHIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T13:14:12.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T13:14:12.217Z"
             },
             {
               "$type": "Document",
@@ -395,6 +384,14 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-06-20T13:08:29.681Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         },
