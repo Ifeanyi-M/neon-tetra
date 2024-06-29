@@ -96,11 +96,12 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-    app.UseSwaggerUI(c =>
-    {
-        c.SwaggerEndpoint("/swagger/v1/swagger.json", "neon-tetra");
-        c.RoutePrefix = string.Empty; // To serve the Swagger UI at the app's root
-    });
+    app.UseSwaggerUI();
+    //app.UseSwaggerUI(c =>
+    //{
+    //    c.SwaggerEndpoint("/swagger/v1/swagger.json", "neon-tetra");
+    //    c.RoutePrefix = string.Empty; // To serve the Swagger UI at the app's root
+    //});
 }
 
 app.UseHttpsRedirection();
@@ -111,5 +112,7 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
-app.Run($"http://*:{port}");
+app.Run();
+
+//var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
+//app.Run($"http://*:{port}");
